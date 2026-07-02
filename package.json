@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-easypost",
+  "version": "0.1.0",
+  "description": "EasyPost MCP — multi-carrier shipping rates + package tracking (easypost.com)",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "easypost"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-easypost"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
