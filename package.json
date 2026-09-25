@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-easypost",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "EasyPost MCP — multi-carrier shipping rates + package tracking (easypost.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-58bb9901adbdde84f13fd2a1f217de2d64d01ca02c5a43be8e83a58aab60ace2",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-d60dae7c8cdef64c678210a4f861da012c8be3a881e73af2a9bd585ad9a2a77a",
+    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
   }
 }
